@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="181" started-at="2021-07-06T21:49:27 EDT" finished-at="2021-07-06T21:49:28 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="181" started-at="2021-07-06T21:49:27 EDT" finished-at="2021-07-06T21:49:28 EDT">
+      <class name="testNG.TestNGClass">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testNG.TestNGClass@34cd072c]" name="setUp" is-config="true" duration-ms="36" started-at="2021-07-06T21:49:27 EDT" finished-at="2021-07-06T21:49:27 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:testNG.TestNGClass@34cd072c]" name="login" is-config="true" duration-ms="5" started-at="2021-07-06T21:49:27 EDT" finished-at="2021-07-06T21:49:27 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="lanuchBrowser()[pri:0, instance:testNG.TestNGClass@34cd072c]" name="lanuchBrowser" is-config="true" duration-ms="3" started-at="2021-07-06T21:49:27 EDT" finished-at="2021-07-06T21:49:27 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanuchBrowser -->
+        <test-method status="PASS" signature="enter()[pri:0, instance:testNG.TestNGClass@34cd072c]" name="enter" is-config="true" duration-ms="2" started-at="2021-07-06T21:49:28 EDT" finished-at="2021-07-06T21:49:28 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter -->
+        <test-method status="PASS" signature="googleTitle()[pri:0, instance:testNG.TestNGClass@34cd072c]" name="googleTitle" duration-ms="29" started-at="2021-07-06T21:49:28 EDT" finished-at="2021-07-06T21:49:28 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitle -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:testNG.TestNGClass@34cd072c]" name="logout" is-config="true" duration-ms="1" started-at="2021-07-06T21:49:28 EDT" finished-at="2021-07-06T21:49:28 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:testNG.TestNGClass@34cd072c]" name="closebrowser" is-config="true" duration-ms="2" started-at="2021-07-06T21:49:28 EDT" finished-at="2021-07-06T21:49:28 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="deleteAllCooKies()[pri:0, instance:testNG.TestNGClass@34cd072c]" name="deleteAllCooKies" is-config="true" duration-ms="1" started-at="2021-07-06T21:49:28 EDT" finished-at="2021-07-06T21:49:28 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCooKies -->
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:testNG.TestNGClass@34cd072c]" name="generateReport" is-config="true" duration-ms="1" started-at="2021-07-06T21:49:31 EDT" finished-at="2021-07-06T21:49:31 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- testNG.TestNGClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
